@@ -1,4 +1,4 @@
-# Algoritism
+# Dalgoritism
 A portfolio of a algorithms and data structures that I've studied, implemented, and documented.  
 
 # Purpose

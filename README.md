@@ -1,5 +1,5 @@
 # Algoritism
-Simply put, a portfolio of a bunch algorithms 
+A portfolio of a algorithms and data structures that I've studied, implemented, and documented.  
 
 # Purpose
 
